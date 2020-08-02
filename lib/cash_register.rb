@@ -8,6 +8,6 @@ class CashRegister
     @i
   end
 
-  def 
+  def add_item
 
 end   #class end 
